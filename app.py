@@ -11,8 +11,8 @@ import time as time
 
 
 
-model_path = "../saved_model"
-label_path = "../label_map.pbtxt"
+model_path = "/saved_model"
+label_path = "/label_map.pbtxt"
 width = 640
 height = 640
 threshold=0.7
